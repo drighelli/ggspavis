@@ -10,10 +10,11 @@ biocViews:
     SingleCell
 Depends: R (>= 4.0.0)
 Imports:
-    SingleCellExperiment, 
-    SpatialExperiment, 
+    SingleCellExperiment,
     rlang, 
     ggplot2
+Remotes:
+    drighelli/SpatialExperiment@devel
 VignetteBuilder: knitr
 Suggests:
     BiocStyle, 
