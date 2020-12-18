@@ -15,7 +15,7 @@ Imports:
     rlang, 
     ggplot2
 Remotes:
-    drighelli/SpatialExperiment@devel
+    drighelli/SpatialExperiment@eurobioc2020
 VignetteBuilder: knitr
 Suggests:
     BiocStyle, 
